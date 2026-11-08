@@ -1,0 +1,12 @@
+# Streamlit config. Everything is commented out: uncomment a line to try it,
+# then refresh the browser. The theme section recolours the whole app.
+
+# [theme]
+# primaryColor = "#FF4B4B"            # buttons, sliders, links
+# backgroundColor = "#FFFFFF"         # main page background
+# secondaryBackgroundColor = "#F0F2F6"  # sidebar and widget backgrounds
+# textColor = "#262730"
+# font = "sans serif"                 # "sans serif", "serif" or "monospace"
+
+# [server]
+# headless = true                     # don't auto-open a browser tab
